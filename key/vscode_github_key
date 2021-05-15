@@ -1,0 +1,21 @@
+ssh-keygen -t rsa -b 4096 -C "ashish.karn43@gmail.com"
+Generating public/private rsa key pair.
+Enter file in which to save the key (/home/spectre/.ssh/id_rsa): 
+Enter passphrase (empty for no passphrase): 
+Enter same passphrase again: 
+Your identification has been saved in /home/spectre/.ssh/id_rsa.
+Your public key has been saved in /home/spectre/.ssh/id_rsa.pub.
+The key fingerprint is:
+SHA256:93Y4A8cJxMAX1TZ7yZWn1FeglUd+ibqSe69vGwLibgs ashish.karn43@gmail.com
+The key's randomart image is:
++---[RSA 4096]----+
+|       ..ooo..o==|
+|        ..o  oBoB|
+|         .. .+.*B|
+|           o..ooo|
+|       .S.o.+  . |
+|      . ..o+..   |
+|     E . o o*..  |
+|      o.  oo.=.  |
+|      .o....=+.  |
++----[SHA256]-----+
